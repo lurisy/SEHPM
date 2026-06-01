@@ -26,7 +26,7 @@ Then place it under `models/` and set the checkpoint path [here](train_configs/m
 The code will automatically downloading the eva_vit_g.pth, we alse put it [huggingface](https://huggingface.co/lainxx/eva_vit_g/blob/main/eva_vit_g.pth), you can manually download it and put it in the cache dir: `.cache/torch/hub/checkpoints`
 
 ### bert-base-uncased
-The code will automatically downloading this, but in case you don't have access to [huggingface](https://huggingface.co/google-bert/bert-base-uncased/tree/main), we also put it [here](https://pan.baidu.com/s/1XzAidcFinjsNxdz58M465w?pwd=b98f) , you can manually download it and alse put it in cache dir: `./SEHPM/tokenizers/bert-base-uncased`
+The code will automatically downloading this, but in case you don't have access to [huggingface](https://huggingface.co/google-bert/bert-base-uncased/tree/main), you can manually download it and alse put it in cache dir: `./SEHPM/tokenizers/bert-base-uncased`
 
 ## Dataset Processing
 
