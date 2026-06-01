@@ -1,0 +1,6 @@
+datasets:
+  laion:
+    data_type: images
+    build_info:
+      storage: ./datasets/imagenet-r/image
+      ann_path: 20_20_order3_2000exp/task{i}.json
